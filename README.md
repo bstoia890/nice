@@ -1,1 +1,1 @@
-# nice
+# Box Class
